@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
 p {
   outline: 3px solid white;
   background-color: #788585;
@@ -27,14 +32,4 @@ p {
   
 }
 
-body {
-  padding: 25px;
-  background-color: #38302e ;
-  color: #ccdad1;
-  font-size: 20px Baskerville;
-}
 
-.dark-mode {
-  background-color: black;
-  color: white;
-}
