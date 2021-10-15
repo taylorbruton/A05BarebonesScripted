@@ -26,3 +26,15 @@ p {
   body {background-color: #788585;}
   
 }
+
+body {
+  padding: 25px;
+  background-color: #38302e ;
+  color: #ccdad1;
+  font-size: 20px Baskerville;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
